@@ -12,6 +12,8 @@
     height: 60px;
 
     background-color: #212121;
+
+    transition: top 0.3s;
 }
 
 .left-section {
